@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+body,form{
+    font-family:'Rubik',sans-serif;
+    font-weight: bold;
+    background-color: gray;
+}
+form{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+table{
+    align-self: center;
+}
+td{
+    font-weight: bold;
+}
+input{
+    font-weight: bold;
+}
+.btn{
+    width: 110px;
+}
+section{
+    align-content: center;
+    align-items: center;
+}
+div{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: aqua;
+    text-decoration: overline;
+}
